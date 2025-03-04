@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/Wine-Quality-Prediction.git
+    git clone https://github.com/Aaryan-Agr/Wine-Quality-Prediction.git
     ```
    
 2. Navigate to the project directory:
@@ -49,7 +49,7 @@ To run this project locally, follow these steps:
 
 4. Run the Jupyter notebook:
     ```bash
-    jupyter notebook CP322_Final.ipynb
+    jupyter notebook Wine Quakity Prediction Models.ipynb
     ```
 
 ## Models Used
